@@ -6,7 +6,7 @@ blurb:
   heading: Why AAC?
   text: >-
     AAC is all about communicating with others. Here we will talk about AAC for
-    all 
+    all. This is why we like it. 
 intro:
   heading: What we offer
   text: >-
@@ -15,7 +15,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/about-direct-sourcing.jpg
     text: >-
       We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
